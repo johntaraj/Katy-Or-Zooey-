@@ -1,2 +1,2 @@
 # Katy-Or-Zooey-
-Zooey or Katy Perry detector
+Zooey or Katy Perry detector (in Google Colab)
