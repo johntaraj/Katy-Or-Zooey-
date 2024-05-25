@@ -1,4 +1,4 @@
-# Katy Or-Zooey-
+# Katy Or-Zooey
 Katy Perry or Zooey Deschanel detector
 
 # DEMO
