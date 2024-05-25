@@ -2,7 +2,7 @@
 Katy Perry or Zooey Deschanel detector
 
 # DEMO
-You can try the code in Huggging Face Spaces
+You can try the code in Hugging Face Spaces
 
 Link: https://huggingface.co/spaces/xota1999/Katy_Perry_or_Zooey_Deschanel
 
